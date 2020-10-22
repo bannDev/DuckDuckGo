@@ -58,6 +58,7 @@ actual_list_of_president_names = [
     "Donald J. Trump"
 ]
 
+# loop through the presidents and append them to the actual list to have data to test
 test_data = []
 for president in actual_list_of_president_names:
     test_data.append((president, True))
