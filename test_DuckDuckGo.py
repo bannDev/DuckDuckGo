@@ -1,5 +1,5 @@
 import pytest
-#import requests
+import requests
 
 
 url = 'https://api.duckduckgo.com/?q=presidents%20of%20the%20united%20states&format=json&pretty=1%22'
